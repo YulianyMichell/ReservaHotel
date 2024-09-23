@@ -29,3 +29,7 @@ Proporcione el nombre del cliente y el número de noches.
 
 4. **Salir del programa**: Termina la ejecución del programa.
 
+<h2>Autores:</h2>
+Yuliany Michell Sánchez Becerra (192372)
+Hannah Cabarico Salazar(192367)
+Euder Julián Pacheco Ascanio(192356)
